@@ -1,0 +1,6 @@
+.env
+.venv
+daring-bit-306611-3fbf312e73dc.json
+__pycache__
+*.pyc
+github_sshkey

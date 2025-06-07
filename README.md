@@ -1,7 +1,7 @@
 ## 🔍 Model Context Protocol (MCP) for Database Queries and Google Sheets output
 
 
-MCP to query databases including MongoDB, PostgreSQL, MySQL, and Google BigQuery, and export the results in a Pandas Dataframe into Google Sheets. Ideal for AI Agents and data teams automating insights, data pulls, and reporting workflows.
+MCP tools for A.I. Agents to query databases including MongoDB, PostgreSQL, MySQL, and Google BigQuery, and export the results in a Pandas Dataframe into Google Sheets. Ideal for AI Agents and data teams automating insights, data pulls, and reporting workflows.
 
 &nbsp;
 

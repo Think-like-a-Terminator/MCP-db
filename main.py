@@ -25,8 +25,7 @@ logger = logging.getLogger(__name__)
 
 # Initialize MCP server
 mcp = FastMCP(
-    name="DBConnectionAgent",
-    port=5050
+    name="DBConnectionAgent"
     )
 
 
